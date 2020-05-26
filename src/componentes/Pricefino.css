@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    background: linear-gradient(90deg, rgba(207,231,212,1) 0%, rgba(229,241,223,1) 33%, rgba(200,232,232,1) 100%);
+    font-family: 'Dancing Script', cursive;  
+    font-size: 1.2em;
+    margin: 20px 30px 50px 30px;
+}
+
+.TabelaProdutos {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 50px 30px 50px 30px;
+}
+
+table th {
+    background-color: #20B2AA;
+    color: #fff;
+    justify-content: center
+}
+
+.Par {
+    background-color: #ddd;
+}
+
+.Impar {
+    background-color: #ccc;
+}
+
+.Title {
+    text-align: center
+}
+
+.Title img {
+    padding: 50px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    width: 50px;
+    height: 30px;
+}
+
+.logo {
+    background-image: url('../images/logo.jpg');
+    background-size: cover;
+    
+}

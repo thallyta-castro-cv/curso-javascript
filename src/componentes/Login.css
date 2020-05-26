@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    background: linear-gradient(90deg, rgba(207,231,212,1) 0%, rgba(229,241,223,1) 33%, rgba(200,232,232,1) 100%);
+    font-family: 'Dancing Script', cursive;  
+    font-size: 1.2em;
+}
+
+.title {
+    background-color: #FFF;
+    width: 350px;
+    padding: 35px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+    margin: 200px 300px 300px 300px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    border-radius: 10%;
+}
+
+.title hr {
+    border: 0;
+    width: 100%;
+    height: 1px;
+    background-image: linear-gradient(to right,
+            rgba(120, 120, 120, 0),
+            rgba(120, 120, 120, 0.75),
+            rgba(120, 120, 120, 0));
+}
+
+.title input {
+    border: 1px solid #BBB;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 3px 8px;
+    justify-items: center;
+    margin: 5px 0px 5px 0px;
+}
+
+.title img {
+    padding: 50px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    width: 50px;
+    height: 30px;
+}
+
+.title button {
+   align-items: center;
+    background-color: #2460ae;
+    color: #FFF;
+    padding: 5px 15px;
+    border-radius: 15%;
+    margin:0;
+    margin-left: 130px;
+}
+
+.title small {
+    margin-bottom: 10px;
+    margin-left: 140px;
+}
+
+.title a{
+    text-decoration: none;
+}
+
+.logo {
+    background-image: url('../images/logo.jpg');
+    background-size: cover;
+    
+}
+
+.goHome {
+    text-align: center;
+    margin: 30px 0px 10px 10px;
+    text-decoration-style: bold;
+   
+}
+.goHome a {
+    text-decoration: none;
+}
+.rodape {
+    text-align: center;
+}
+

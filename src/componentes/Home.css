@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    background: linear-gradient(90deg, rgba(207,231,212,1) 0%, rgba(229,241,223,1) 33%, rgba(200,232,232,1) 100%);
+    font-family: 'Dancing Script', cursive;  
+    font-size: 1.2em;
+}
+
+.title img {
+    padding: 50px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    width: 50px;
+    height: 30px;
+}
+
+.title {
+    background-color: #FFF;
+    width: 350px;
+    padding: 35px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+    margin: 200px 300px 300px 300px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    border-radius: 10%;
+}
+
+.logo {
+    background-image: url('../images/logo.jpg');
+    background-size: cover;
+    }
+
+.title button {
+         flex-direction: row;
+         background-color: #2460ae;
+         color: #FFF;
+         padding: 5px 15px;
+         border-radius: 15%;
+         margin:5px;
+         align-items: baseline;        
+}
