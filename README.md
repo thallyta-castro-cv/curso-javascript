@@ -1,5 +1,19 @@
-## Exercícios de Javascript sobre funções
+# Exercícios de Javascript sobre funções
 
+![NPM](https://img.shields.io/npm/l/react)
+
+# Sobre o projeto
+
+Este repositório contém exercícios de javascript sobre funções resolvidos para treinar lógica de programação e seintaxe javascript.
+Cada exercício realizado está expecificado no arquivo de acordo com o número da questão.
+
+# Requisitos para realizar os exercícios
+
+- NodeJs
+- Javascript
+- VsCode
+
+# Descrição dos exercícios
 
 01) Crie uma função que dado dois valores (passados ​​como parâmetros) mostre no console a soma, subtração,
 multiplicação e divisão valores.
@@ -186,3 +200,15 @@ Faça a troca sem usar uma variável auxiliar.
 40) Faça uma função que receba como parâmetro de um vetor de notas e mostre os conceitos de cada uma de
 modo que de 0,0 a 4,9 seja atribuído ao conceito D, de 5,0 a 6,9 seja atribuído o conceito C, de 7,0 a 8,9 o
 conceito B e de 9,0 a 10,0 o conceito A.
+
+# Autor
+
+<b>Thallyta Macedo Carvalho de Castro</b>
+
+Linkedin: [https://www.linkedin.com/in/thallyta-castro/](https://www.linkedin.com/in/thallyta-castro/)
+
+Medium: [https://medium.com/@thallyta-castro-cv](https://medium.com/@thallyta-castro-cv)
+
+email: [contato@thallytacastro.com.br](mailto:contato@thallytacastro.com.br)
+
+
